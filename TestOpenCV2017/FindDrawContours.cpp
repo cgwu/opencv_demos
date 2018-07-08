@@ -4,7 +4,7 @@
 #include "stdafx.h"
 using namespace cv;
 
-int main() {
+int main_FindDrawContours() {
 	Mat src = imread("123.png", CV_LOAD_IMAGE_GRAYSCALE);
 	imshow("origin", src);
 
