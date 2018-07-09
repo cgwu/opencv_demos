@@ -4,7 +4,7 @@
 #include "stdafx.h"
 using namespace cv;
 
-int main() {
+int main_HoughLineDetect() {
 	Mat src = imread("hough.jpg");
 	imshow("origin", src);
 

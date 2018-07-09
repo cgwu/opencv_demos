@@ -153,6 +153,8 @@
   <ItemGroup>
     <ClCompile Include="AffineDemo.cpp" />
     <ClCompile Include="BlurDemo.cpp" />
+    <ClCompile Include="CannyEdgeDetect.cpp" />
+    <ClCompile Include="ColorHarrisDemo.cpp" />
     <ClCompile Include="ColorSpaceConvert.cpp" />
     <ClCompile Include="EqualizeHistogramDemo.cpp" />
     <ClCompile Include="ErodeDilateDemo.cpp" />
