@@ -4,7 +4,7 @@
 #include "stdafx.h"
 using namespace cv;
 
-int main() {
+int main_ColorHarrisDemo() {
 	Mat src = imread("hough.jpg");
 	Mat gray;
 	cvtColor(src, gray, CV_BGR2GRAY);

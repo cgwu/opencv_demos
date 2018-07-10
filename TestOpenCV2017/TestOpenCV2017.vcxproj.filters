@@ -65,6 +65,12 @@
     <ClCompile Include="ColorHarrisDemo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FastDetectKeyPoints.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SurfDetectKeyPoints.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="进度.txt">

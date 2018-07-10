@@ -158,6 +158,7 @@
     <ClCompile Include="ColorSpaceConvert.cpp" />
     <ClCompile Include="EqualizeHistogramDemo.cpp" />
     <ClCompile Include="ErodeDilateDemo.cpp" />
+    <ClCompile Include="FastDetectKeyPoints.cpp" />
     <ClCompile Include="FindDrawContours.cpp" />
     <ClCompile Include="HistogramImage.cpp" />
     <ClCompile Include="HoughLineDetect.cpp" />
@@ -168,6 +169,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="SurfDetectKeyPoints.cpp" />
     <ClCompile Include="TestOpenCV2017.cpp" />
     <ClCompile Include="ThresholdImage.cpp" />
   </ItemGroup>
